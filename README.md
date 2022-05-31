@@ -1,11 +1,11 @@
 # TORN
 
-**DESCRIPCI”N**
+**DESCRIPCI√ìN**
 
-El Torn es un teclado mec·nico dividido que toma inspiraciÛn del Corne, pero con
+El Torn es un teclado mec√°nico dividido que toma inspiraci√≥n del Corne, pero con
 el aspecto de un teclado de orificio pasante, como el Discipline, con todos sus
 componentes a la vista. Gracias a sus 44 teclas, permite una mayor comodidad
-respecto al Corne y, adem·s, tiene la posibilidad de colocar 2 encoders.
+respecto al Corne y, adem√°s, tiene la posibilidad de colocar 2 encoders.
 Es compatible con el firmware de QMK y VIA. Lleva un microcontrolador ATmega328P
 y requiere un bootloader para poder ser programado sobre USB desde aplicaciones
 como el QMK Toolbox.
@@ -16,7 +16,7 @@ como el QMK Toolbox.
 
 **[LICENCIA](LICENSE)**
 
-Torn se publica bajo licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional (https://creativecommons.org/licenses/by-sa/4.0/).
+Torn se publica bajo licencia [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional](https://creativecommons.org/licenses/by-sa/4.0/).
 
 El contenido de este repositorio puede adaptarse y compartirse libremente para cualquier finalidad, incluso comercial, con las siguientes condiciones:
 
